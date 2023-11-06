@@ -13,7 +13,7 @@ again and only a person with proper identification can actually use an E-Ticket.
 4. E-Ticket passengers can receive everything from gate assignments to cancellation or
 delay through E-mail, text messages sent to their home or business computers or to their cell
 phones.
-5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
+5. Finally, using E-Ticket is a more environmentally friendly approach. The main purpose
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ## UML DIAGRAMS:
